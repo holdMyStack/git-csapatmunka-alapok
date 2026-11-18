@@ -5,3 +5,5 @@
 - Madártej (extra vaníliával)
 
 ## Sós ételek
+- Gulyásleves
+- Hortobágyi húsos palacsinta
